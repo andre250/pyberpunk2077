@@ -80,6 +80,8 @@ ___options___
 
 ```commandline
 $ pyberpunk2077cli selfdrive run -t True
+or to run the self-drive
+$ pyberpunk2077cli selfdrive run
 ```
 [![Usage](/resources/usage.png)]
 
