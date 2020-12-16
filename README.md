@@ -2,7 +2,7 @@
 Pyberpunk is a cli app with a single purpose, make self-drive cars in Cyberpunk2077 using Python.
 Name explain itself!
 
-[![Gif](/resources/usage.gif)]
+![](/resources/usage_2.gif)
 
 ## How-To
 Soon
